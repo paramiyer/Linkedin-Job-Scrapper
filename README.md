@@ -25,12 +25,12 @@ You'll also need:
 ## ▶️ How to Run
 
 ```bash
-python scraping_linkedin.py "data scientist" "New York, United States" 120 10
+python scraping_linkedin.py "data scientist" "Dubai, UAE" 120 10
 ```
 
 **Arguments:**
 - "data scientist" → Job keyword
-- "New York, United States" → Location
+- "Dubai, UAE" → Location
 - 120 → Sleep time (seconds) to allow the page to load
 - 10 → Number of job posts to fetch
 

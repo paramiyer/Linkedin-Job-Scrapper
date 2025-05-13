@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 You'll also need:
 - Google Chrome browser
-- ChromeDriver (https://chromedriver.chromium.org/) (compatible with your Chrome version)
+- ChromeDriver (https://chromedriver.chromium.org/) (compatible with your Chrome version) < note included in git, Line 76 of scraping_linkedin.py>
 - A file named `user_credentials.txt` placed at `../data/` containing:
   your_email@example.com
   your_password
